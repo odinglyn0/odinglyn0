@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Odin</h1>
-<h3 align="center">I make stuff</h3>
-
-- 🔭 I’m currently developing [SOTA-Level bias detection APIs](https://docs.atk.orkavi.com/)
-
-- 🌱 I’m currently learning **FastAPI, TensorFlow and Transformers**
+<h1 align="center">Hi</h1>
 
 - Fun Fact **I'm the only real Glynnster Sigms...**
 
