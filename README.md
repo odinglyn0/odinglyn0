@@ -1,6 +1,7 @@
 <h1 align="center">Hi</h1>
 
 - Fun Fact **I'm the only real Glynnster Sigms...**
+- All of my work is private...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
