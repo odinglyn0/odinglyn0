@@ -1,6 +1,6 @@
 <h1 align="center">Hi</h1>
 
-- All of my work is private...
+- Most of my work is private...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
