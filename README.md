@@ -30,7 +30,7 @@ class Attributes(Tekky):
             'intermediate': ['go', 'js'],
             'learning'    : ['c++', 'rust', 'c#']
         }
-        specialities  = ['white-hat hacking', 'fullstack', 'ml']
+        specialities  = ['white-hat hacking', 'fullstack', 'ml', 'steganography']
         ide           = ['vscode', 'pycharm']
         pc            = {
             'Windows': {
