@@ -130,5 +130,6 @@ jobs:
 
           git add output/cloc-output.json README.md
           git commit -m "chore: update README and cloc-output.json with latest code stats" || echo "No changes to commit"
-          git pull --rebase origin HEAD
+          git fetch origin
+          git rebase origin/${{ github.ref_name }}
           git push origin HEAD
