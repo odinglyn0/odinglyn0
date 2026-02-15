@@ -6,4 +6,13 @@ Most of my projects are private.
 Though, im working on changing that
 
 <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
+
+TypeScript   --> 42,973 lines
+JavaScript   --> 537 lines
+Others       --> 292,035 lines
+
+[ TOTAL LINES OF CODE: 335,545 ]
+```
 <!-- LANGUAGES BREAKDOWN END -->
