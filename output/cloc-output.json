@@ -1,22 +1,22 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.61673593521118,
-  "n_files"            : 4995,
-  "n_lines"            : 442855,
-  "files_per_second"   : 1381.07953952915,
-  "lines_per_second"   : 122446.041937574,
+  "elapsed_seconds"    : 3.64834594726562,
+  "n_files"            : 5037,
+  "n_lines"            : 447375,
+  "files_per_second"   : 1380.62565140654,
+  "lines_per_second"   : 122624.062100059,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
-  "nFiles": 4404,
-  "blank": 65431,
-  "comment": 10312,
-  "code": 291106},
+  "nFiles": 4443,
+  "blank": 66082,
+  "comment": 10902,
+  "code": 293923},
 "TypeScript" :{
   "nFiles": 403,
-  "blank": 5036,
+  "blank": 5035,
   "comment": 1739,
-  "code": 42865},
+  "code": 42862},
 "C++" :{
   "nFiles": 31,
   "blank": 1703,
@@ -62,6 +62,11 @@
   "blank": 65,
   "comment": 33,
   "code": 537},
+"Arduino Sketch" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 32,
+  "code": 386},
 "Bourne Shell" :{
   "nFiles": 4,
   "blank": 35,
@@ -88,12 +93,12 @@
   "comment": 1,
   "code": 19},
 "INI" :{
-  "nFiles": 1,
-  "blank": 0,
+  "nFiles": 2,
+  "blank": 5,
   "comment": 0,
-  "code": 2},
+  "code": 14},
 "SUM": {
-  "blank": 74671,
-  "comment": 15348,
-  "code": 352836,
-  "nFiles": 4995} }
+  "blank": 75357,
+  "comment": 15970,
+  "code": 356048,
+  "nFiles": 5037} }
