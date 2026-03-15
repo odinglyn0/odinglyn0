@@ -11,8 +11,8 @@ Though, im working on changing that
 
 TypeScript   --> 42,862 lines
 JavaScript   --> 537 lines
-Others       --> 312,649 lines
+Others       --> 316,322 lines
 
-[ TOTAL LINES OF CODE: 356,048 ]
+[ TOTAL LINES OF CODE: 359,721 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
