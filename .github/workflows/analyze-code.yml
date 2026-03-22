@@ -9,7 +9,7 @@ jobs:
   count-lines:
     runs-on: ubuntu-latest
     env:
-      HIGHLIGHT_LANGS: "JavaScript,TypeScript,JSX,Vuejs Component,PHP,C#"
+      HIGHLIGHT_LANGS: "Python,TypeScript,JavaScript"
       IGNORE_LANGS: "JSON,HTML,CSS,SCSS,Sass,Markdown,SVG,XML,YAML,TOML,CSV,Text,Properties"
 
     steps:
