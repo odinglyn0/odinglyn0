@@ -9,10 +9,10 @@ Though, im working on changing that
 ```
 [ LANGUAGES BREAKDOWN ]
 
-TypeScript   --> 42,862 lines
+TypeScript   --> 42,876 lines
 JavaScript   --> 537 lines
-Others       --> 316,322 lines
+Others       --> 317,160 lines
 
-[ TOTAL LINES OF CODE: 359,721 ]
+[ TOTAL LINES OF CODE: 360,573 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
