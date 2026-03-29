@@ -1,17 +1,17 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 2.9863429069519,
-  "n_files"            : 5063,
-  "n_lines"            : 452691,
-  "files_per_second"   : 1695.38467542152,
-  "lines_per_second"   : 151587.079617073,
+  "elapsed_seconds"    : 3.68391704559326,
+  "n_files"            : 5091,
+  "n_lines"            : 455529,
+  "files_per_second"   : 1381.95294220588,
+  "lines_per_second"   : 123653.435829916,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
-  "nFiles": 4462,
-  "blank": 66810,
+  "nFiles": 4481,
+  "blank": 67201,
   "comment": 10912,
-  "code": 298207},
+  "code": 300097},
 "TypeScript" :{
   "nFiles": 403,
   "blank": 5036,
@@ -32,16 +32,16 @@
   "blank": 347,
   "comment": 0,
   "code": 2191},
+"HCL" :{
+  "nFiles": 15,
+  "blank": 258,
+  "comment": 36,
+  "code": 1431},
 "SQL" :{
   "nFiles": 24,
   "blank": 100,
   "comment": 39,
   "code": 1224},
-"HCL" :{
-  "nFiles": 10,
-  "blank": 207,
-  "comment": 36,
-  "code": 1140},
 "C/C++ Header" :{
   "nFiles": 15,
   "blank": 444,
@@ -53,10 +53,10 @@
   "comment": 31,
   "code": 876},
 "Dockerfile" :{
-  "nFiles": 42,
-  "blank": 338,
+  "nFiles": 44,
+  "blank": 349,
   "comment": 5,
-  "code": 800},
+  "code": 850},
 "JavaScript" :{
   "nFiles": 20,
   "blank": 65,
@@ -77,16 +77,21 @@
   "blank": 20,
   "comment": 20,
   "code": 124},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 4,
+  "code": 122},
 "C" :{
   "nFiles": 1,
   "blank": 7,
   "comment": 0,
   "code": 86},
-"DOS Batch" :{
-  "nFiles": 2,
-  "blank": 18,
-  "comment": 4,
-  "code": 49},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 57},
 "Specman e" :{
   "nFiles": 1,
   "blank": 0,
@@ -98,7 +103,7 @@
   "comment": 0,
   "code": 14},
 "SUM": {
-  "blank": 76139,
+  "blank": 76616,
   "comment": 15979,
-  "code": 360573,
-  "nFiles": 5063} }
+  "code": 362934,
+  "nFiles": 5091} }
