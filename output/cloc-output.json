@@ -1,27 +1,27 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.68391704559326,
-  "n_files"            : 5091,
-  "n_lines"            : 455529,
-  "files_per_second"   : 1381.95294220588,
-  "lines_per_second"   : 123653.435829916,
+  "elapsed_seconds"    : 7.85383605957031,
+  "n_files"            : 5559,
+  "n_lines"            : 508276,
+  "files_per_second"   : 707.806982197708,
+  "lines_per_second"   : 64716.9098189462,
   "report_file"        : "../output/cloc-output.json"},
 "Python" :{
-  "nFiles": 4481,
-  "blank": 67201,
-  "comment": 10912,
-  "code": 300097},
+  "nFiles": 4483,
+  "blank": 67268,
+  "comment": 10932,
+  "code": 300333},
 "TypeScript" :{
-  "nFiles": 403,
-  "blank": 5036,
-  "comment": 1739,
-  "code": 42876},
+  "nFiles": 845,
+  "blank": 10555,
+  "comment": 1740,
+  "code": 80827},
 "C++" :{
-  "nFiles": 32,
-  "blank": 1715,
+  "nFiles": 41,
+  "blank": 2053,
   "comment": 734,
-  "code": 7568},
+  "code": 9838},
 "CUDA" :{
   "nFiles": 18,
   "blank": 821,
@@ -37,16 +37,21 @@
   "blank": 258,
   "comment": 36,
   "code": 1431},
+"C/C++ Header" :{
+  "nFiles": 17,
+  "blank": 489,
+  "comment": 1272,
+  "code": 1298},
 "SQL" :{
   "nFiles": 24,
   "blank": 100,
   "comment": 39,
   "code": 1224},
-"C/C++ Header" :{
-  "nFiles": 15,
-  "blank": 444,
-  "comment": 1272,
-  "code": 1113},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 185,
+  "comment": 5306,
+  "code": 1163},
 "Go" :{
   "nFiles": 7,
   "blank": 140,
@@ -57,11 +62,6 @@
   "blank": 349,
   "comment": 5,
   "code": 850},
-"JavaScript" :{
-  "nFiles": 20,
-  "blank": 65,
-  "comment": 33,
-  "code": 537},
 "Arduino Sketch" :{
   "nFiles": 2,
   "blank": 31,
@@ -73,10 +73,10 @@
   "comment": 3,
   "code": 202},
 "CMake" :{
-  "nFiles": 2,
-  "blank": 20,
-  "comment": 20,
-  "code": 124},
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 26,
+  "code": 201},
 "DOS Batch" :{
   "nFiles": 3,
   "blank": 32,
@@ -103,7 +103,7 @@
   "comment": 0,
   "code": 14},
 "SUM": {
-  "blank": 76616,
-  "comment": 15979,
-  "code": 362934,
-  "nFiles": 5091} }
+  "blank": 82718,
+  "comment": 21279,
+  "code": 404279,
+  "nFiles": 5559} }
