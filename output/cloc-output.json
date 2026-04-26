@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 28.1590669155121,
-  "n_files"            : 14013,
-  "n_lines"            : 7354032,
-  "files_per_second"   : 497.637227896945,
-  "lines_per_second"   : 261160.358120704,
+  "elapsed_seconds"    : 28.9709589481354,
+  "n_files"            : 14027,
+  "n_lines"            : 7356380,
+  "files_per_second"   : 484.174515075995,
+  "lines_per_second"   : 253922.557868022,
   "report_file"        : "../output/cloc-output.json"},
 "Qt Linguist" :{
   "nFiles": 1143,
@@ -13,10 +13,10 @@
   "comment": 0,
   "code": 4101361},
 "Python" :{
-  "nFiles": 6383,
-  "blank": 164710,
-  "comment": 165815,
-  "code": 1015504},
+  "nFiles": 6391,
+  "blank": 164923,
+  "comment": 165890,
+  "code": 1016628},
 "C++" :{
   "nFiles": 2525,
   "blank": 150379,
@@ -33,10 +33,10 @@
   "comment": 2,
   "code": 124352},
 "TypeScript" :{
-  "nFiles": 648,
-  "blank": 6562,
-  "comment": 2151,
-  "code": 60244},
+  "nFiles": 646,
+  "blank": 6584,
+  "comment": 2152,
+  "code": 60360},
 "C" :{
   "nFiles": 15,
   "blank": 4005,
@@ -59,29 +59,29 @@
   "code": 3161},
 "SQL" :{
   "nFiles": 25,
-  "blank": 102,
+  "blank": 104,
   "comment": 39,
-  "code": 2275},
+  "code": 2291},
 "Rust" :{
   "nFiles": 16,
   "blank": 347,
   "comment": 0,
   "code": 2191},
+"HCL" :{
+  "nFiles": 17,
+  "blank": 367,
+  "comment": 36,
+  "code": 1888},
 "Bourne Shell" :{
   "nFiles": 23,
   "blank": 296,
   "comment": 145,
   "code": 1577},
-"HCL" :{
-  "nFiles": 15,
-  "blank": 258,
-  "comment": 36,
-  "code": 1431},
 "Dockerfile" :{
-  "nFiles": 51,
-  "blank": 382,
+  "nFiles": 55,
+  "blank": 399,
   "comment": 10,
-  "code": 924},
+  "code": 953},
 "Go" :{
   "nFiles": 7,
   "blank": 140,
@@ -93,10 +93,10 @@
   "comment": 601,
   "code": 771},
 "JavaScript" :{
-  "nFiles": 22,
-  "blank": 110,
+  "nFiles": 23,
+  "blank": 117,
   "comment": 275,
-  "code": 559},
+  "code": 638},
 "lex" :{
   "nFiles": 3,
   "blank": 122,
@@ -114,9 +114,9 @@
   "code": 386},
 "DOS Batch" :{
   "nFiles": 12,
-  "blank": 65,
+  "blank": 67,
   "comment": 8,
-  "code": 369},
+  "code": 373},
 "yacc" :{
   "nFiles": 3,
   "blank": 55,
@@ -132,6 +132,11 @@
   "blank": 29,
   "comment": 26,
   "code": 211},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 0,
+  "code": 142},
 "reStructuredText" :{
   "nFiles": 23,
   "blank": 172,
@@ -147,11 +152,6 @@
   "blank": 33,
   "comment": 32,
   "code": 85},
-"PowerShell" :{
-  "nFiles": 2,
-  "blank": 19,
-  "comment": 0,
-  "code": 80},
 "make" :{
   "nFiles": 1,
   "blank": 15,
@@ -213,7 +213,7 @@
   "comment": 0,
   "code": 6},
 "SUM": {
-  "blank": 405405,
-  "comment": 445497,
-  "code": 6503130,
-  "nFiles": 14013} }
+  "blank": 405790,
+  "comment": 445573,
+  "code": 6505017,
+  "nFiles": 14027} }

@@ -9,11 +9,11 @@ Though, im working on changing that
 ```
 [ LANGUAGES BREAKDOWN ]
 
-Python       --> 1,015,504 lines
-TypeScript   --> 60,244 lines
-JavaScript   --> 559 lines
-Others       --> 5,426,823 lines
+Python       --> 1,016,628 lines
+TypeScript   --> 60,360 lines
+JavaScript   --> 638 lines
+Others       --> 5,427,391 lines
 
-[ TOTAL LINES OF CODE: 6,503,130 ]
+[ TOTAL LINES OF CODE: 6,505,017 ]
 ```
 <!-- LANGUAGES BREAKDOWN END -->
