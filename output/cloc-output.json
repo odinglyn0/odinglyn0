@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 27.4296190738678,
-  "n_files"            : 14030,
-  "n_lines"            : 7356486,
-  "files_per_second"   : 511.490880067175,
-  "lines_per_second"   : 268194.974935271,
+  "elapsed_seconds"    : 27.3918280601501,
+  "n_files"            : 13940,
+  "n_lines"            : 7353867,
+  "files_per_second"   : 508.910904719062,
+  "lines_per_second"   : 268469.376481611,
   "report_file"        : "../output/cloc-output.json"},
 "Qt Linguist" :{
   "nFiles": 1143,
@@ -13,10 +13,10 @@
   "comment": 0,
   "code": 4101361},
 "Python" :{
-  "nFiles": 6391,
-  "blank": 164923,
-  "comment": 165890,
-  "code": 1016628},
+  "nFiles": 6392,
+  "blank": 165101,
+  "comment": 166021,
+  "code": 1017363},
 "C++" :{
   "nFiles": 2525,
   "blank": 150379,
@@ -33,10 +33,10 @@
   "comment": 2,
   "code": 124352},
 "TypeScript" :{
-  "nFiles": 649,
-  "blank": 6591,
-  "comment": 2153,
-  "code": 60458},
+  "nFiles": 557,
+  "blank": 6272,
+  "comment": 1752,
+  "code": 57453},
 "C" :{
   "nFiles": 15,
   "blank": 4005,
@@ -58,10 +58,10 @@
   "comment": 1118,
   "code": 3161},
 "SQL" :{
-  "nFiles": 25,
-  "blank": 104,
+  "nFiles": 26,
+  "blank": 106,
   "comment": 39,
-  "code": 2291},
+  "code": 2301},
 "Rust" :{
   "nFiles": 16,
   "blank": 347,
@@ -78,10 +78,10 @@
   "comment": 145,
   "code": 1577},
 "Dockerfile" :{
-  "nFiles": 55,
-  "blank": 399,
+  "nFiles": 56,
+  "blank": 415,
   "comment": 10,
-  "code": 953},
+  "code": 995},
 "Go" :{
   "nFiles": 7,
   "blank": 140,
@@ -93,10 +93,10 @@
   "comment": 601,
   "code": 771},
 "JavaScript" :{
-  "nFiles": 23,
-  "blank": 117,
-  "comment": 275,
-  "code": 638},
+  "nFiles": 22,
+  "blank": 116,
+  "comment": 274,
+  "code": 632},
 "lex" :{
   "nFiles": 3,
   "blank": 122,
@@ -213,7 +213,7 @@
   "comment": 0,
   "code": 6},
 "SUM": {
-  "blank": 405797,
-  "comment": 445574,
-  "code": 6505115,
-  "nFiles": 14030} }
+  "blank": 405673,
+  "comment": 445303,
+  "code": 6502891,
+  "nFiles": 13940} }
