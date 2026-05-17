@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 27.3918280601501,
-  "n_files"            : 13940,
-  "n_lines"            : 7353867,
-  "files_per_second"   : 508.910904719062,
-  "lines_per_second"   : 268469.376481611,
+  "elapsed_seconds"    : 27.7505750656128,
+  "n_files"            : 14045,
+  "n_lines"            : 7368527,
+  "files_per_second"   : 506.115637848669,
+  "lines_per_second"   : 265527.001965834,
   "report_file"        : "../output/cloc-output.json"},
 "Qt Linguist" :{
   "nFiles": 1143,
@@ -13,10 +13,10 @@
   "comment": 0,
   "code": 4101361},
 "Python" :{
-  "nFiles": 6392,
-  "blank": 165101,
+  "nFiles": 6431,
+  "blank": 166281,
   "comment": 166021,
-  "code": 1017363},
+  "code": 1022967},
 "C++" :{
   "nFiles": 2525,
   "blank": 150379,
@@ -33,10 +33,10 @@
   "comment": 2,
   "code": 124352},
 "TypeScript" :{
-  "nFiles": 557,
-  "blank": 6272,
-  "comment": 1752,
-  "code": 57453},
+  "nFiles": 589,
+  "blank": 6662,
+  "comment": 1751,
+  "code": 61242},
 "C" :{
   "nFiles": 15,
   "blank": 4005,
@@ -52,36 +52,36 @@
   "blank": 218,
   "comment": 8877,
   "code": 7757},
+"HCL" :{
+  "nFiles": 46,
+  "blank": 829,
+  "comment": 36,
+  "code": 4655},
 "CUDA" :{
   "nFiles": 18,
   "blank": 821,
   "comment": 1118,
   "code": 3161},
 "SQL" :{
-  "nFiles": 26,
-  "blank": 106,
+  "nFiles": 27,
+  "blank": 113,
   "comment": 39,
-  "code": 2301},
+  "code": 2388},
 "Rust" :{
   "nFiles": 16,
   "blank": 347,
   "comment": 0,
   "code": 2191},
-"HCL" :{
-  "nFiles": 17,
-  "blank": 367,
-  "comment": 36,
-  "code": 1888},
 "Bourne Shell" :{
   "nFiles": 23,
   "blank": 296,
   "comment": 145,
   "code": 1577},
 "Dockerfile" :{
-  "nFiles": 56,
-  "blank": 415,
+  "nFiles": 57,
+  "blank": 428,
   "comment": 10,
-  "code": 995},
+  "code": 1039},
 "Go" :{
   "nFiles": 7,
   "blank": 140,
@@ -107,6 +107,11 @@
   "blank": 84,
   "comment": 44,
   "code": 465},
+"PowerShell" :{
+  "nFiles": 6,
+  "blank": 76,
+  "comment": 21,
+  "code": 395},
 "Arduino Sketch" :{
   "nFiles": 2,
   "blank": 31,
@@ -132,11 +137,6 @@
   "blank": 29,
   "comment": 26,
   "code": 211},
-"PowerShell" :{
-  "nFiles": 3,
-  "blank": 32,
-  "comment": 0,
-  "code": 142},
 "reStructuredText" :{
   "nFiles": 23,
   "blank": 172,
@@ -213,7 +213,7 @@
   "comment": 0,
   "code": 6},
 "SUM": {
-  "blank": 405673,
-  "comment": 445303,
-  "code": 6502891,
-  "nFiles": 13940} }
+  "blank": 407769,
+  "comment": 445323,
+  "code": 6515435,
+  "nFiles": 14045} }
