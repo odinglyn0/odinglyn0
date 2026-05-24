@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 27.7505750656128,
-  "n_files"            : 14045,
-  "n_lines"            : 7368527,
-  "files_per_second"   : 506.115637848669,
-  "lines_per_second"   : 265527.001965834,
+  "elapsed_seconds"    : 28.7546129226685,
+  "n_files"            : 14049,
+  "n_lines"            : 7369389,
+  "files_per_second"   : 488.582476758871,
+  "lines_per_second"   : 256285.453044315,
   "report_file"        : "../output/cloc-output.json"},
 "Qt Linguist" :{
   "nFiles": 1143,
@@ -13,10 +13,10 @@
   "comment": 0,
   "code": 4101361},
 "Python" :{
-  "nFiles": 6431,
-  "blank": 166281,
-  "comment": 166021,
-  "code": 1022967},
+  "nFiles": 6432,
+  "blank": 166404,
+  "comment": 166020,
+  "code": 1023557},
 "C++" :{
   "nFiles": 2525,
   "blank": 150379,
@@ -33,10 +33,10 @@
   "comment": 2,
   "code": 124352},
 "TypeScript" :{
-  "nFiles": 589,
-  "blank": 6662,
+  "nFiles": 591,
+  "blank": 6677,
   "comment": 1751,
-  "code": 61242},
+  "code": 61360},
 "C" :{
   "nFiles": 15,
   "blank": 4005,
@@ -78,10 +78,10 @@
   "comment": 145,
   "code": 1577},
 "Dockerfile" :{
-  "nFiles": 57,
-  "blank": 428,
+  "nFiles": 58,
+  "blank": 434,
   "comment": 10,
-  "code": 1039},
+  "code": 1050},
 "Go" :{
   "nFiles": 7,
   "blank": 140,
@@ -213,7 +213,7 @@
   "comment": 0,
   "code": 6},
 "SUM": {
-  "blank": 407769,
-  "comment": 445323,
-  "code": 6515435,
-  "nFiles": 14045} }
+  "blank": 407913,
+  "comment": 445322,
+  "code": 6516154,
+  "nFiles": 14049} }
